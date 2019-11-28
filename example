@@ -27,7 +27,7 @@ $argv = $_SERVER['argv'];
 $appName = "DrupalTasks";
 $appVersion = trim(file_get_contents(__DIR__ . '/VERSION'));
 $commandClasses = [ \DrupalTasks\Cli\ExampleCommands::class ];
-$selfUpdateRepository = 'danielnv18/drupal-tasks';
+$selfUpdateRepository = 'drupal-settings/drupal-tasks';
 $configPrefix = 'DRUPALTASKS';
 $configFilePath = getenv($configPrefix . '_CONFIG') ?: getenv('HOME') . '/.drupal-tasks/drupal-tasks.yml';
 
