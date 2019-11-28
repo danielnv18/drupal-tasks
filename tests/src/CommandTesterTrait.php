@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace DrupalTasks;
 
 use Symfony\Component\Console\Output\BufferedOutput;
 

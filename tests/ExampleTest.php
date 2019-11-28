@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace DrupalTasks;
 
 use PHPUnit\Framework\TestCase;
 
