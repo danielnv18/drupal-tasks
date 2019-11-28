@@ -1,6 +1,6 @@
 <?php
 
-namespace DrupalTasks\Cli;
+namespace DrupalSettings\Tasks\Cli;
 
 class ExampleCommands extends \Robo\Tasks
 {
