@@ -1,6 +1,6 @@
 <?php
 
-namespace DrupalTasks;
+namespace DrupalSettings;
 
 class Example
 {
